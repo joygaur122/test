@@ -1,0 +1,6 @@
+node_modules/
+images/
+.git/
+screenshot.jpg
+config/config.env
+functions
